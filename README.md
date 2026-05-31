@@ -29,7 +29,6 @@ tests/test-checklist.md
 tests/smoke_test.py
 README.md
 ARCHITECTURE.md
-PLAN.md
 ```
 
 ## Prerequisites
